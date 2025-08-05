@@ -1,0 +1,23 @@
+#titulo1 {
+    color:blueviolet;
+    background-color: blue;
+}
+#titulo2 {
+    color: aqua;
+    background-color: black;
+}
+#titulo3 {
+    color: coral;
+    background-color: beige;
+}
+#titulo4 {
+    color: brown;
+    background-color: chartreuse;
+}
+.clase1 {
+    width: 30%;
+    height: 20%;
+    display: inline-block;
+    color: lawngreen;
+    background-color: dimgrey;
+}
